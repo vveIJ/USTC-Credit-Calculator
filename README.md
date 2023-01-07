@@ -1,4 +1,4 @@
-# USTC-Credit-Calculator
+# USTC Credit Calculator
 
 ## 简介
 
