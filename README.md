@@ -8,7 +8,7 @@
 
 1. `pip install requests lxml easyocr` ;
 2. 修改 `config.py` 中的相关设置 ;
-3. 在终端命令行工具 ( 如 `Powershell` ) 中运行 `main.py` .
+3. 在终端命令行工具 ( 如 `Powershell` ) 中运行 `main.py` ( 无需参数 ).
 
 示例输出 :
 
